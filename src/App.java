@@ -207,7 +207,7 @@ public class App {
         return temp;
     }
 
-    private static void bubbleSort(List<Integer> countList, int currentValue, int nextValue, int i, int j) {
+    public static void bubbleSort(List<Integer> countList, int currentValue, int nextValue, int i, int j) {
         int tempValue;
         tempValue = currentValue;
         countList.set(i, nextValue);

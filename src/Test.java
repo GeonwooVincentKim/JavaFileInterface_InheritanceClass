@@ -120,7 +120,7 @@ public class Test {
         getArray[nextValue] = tempValue;
     }
 
-    // 8. 전체 배열들을 출력한디.
+    // 8. 전체 배열들을 출력한다.
     public static String printArray(int printT, int[] sortCountArray) {
         // public static String printArray(int printT, int[] randomArray, int[]
         // countArray, int[] sortCountArray) {
