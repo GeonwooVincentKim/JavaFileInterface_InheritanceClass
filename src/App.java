@@ -176,18 +176,6 @@ public class App {
         return countList;
     }
 
-    // public static List<Integer> getCountList2(int[] temp) {
-    // List<Integer> countList = new ArrayList<Integer>();
-
-    // for (int i = 0; i < temp.length; i++) {
-    // if (!(isContains(countList, temp[i]))) {
-    // countList.add(temp[i]);
-    // }
-    // }
-
-    // return countList;
-    // }
-
     public static String printRandomList(int[] randomList) {
         String loopResult = "";
 
